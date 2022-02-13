@@ -1,3 +1,5 @@
 # Katas de Eduardo Daniel Rico Gómez para CursoIntroPython - LauncherX
 
-Módulo 0 a Módulo 9
+Módulo 0 a Módulo 10
+
+Katas completadas
